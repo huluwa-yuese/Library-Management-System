@@ -1,4 +1,4 @@
-DOCTOR MANAGEMENT SYSTEM
+DOCTOR Management System
 
 Doctor Management System is basically like the Hospital management System
 The website I created has to do with the daily activities if the Hospital and it's medical routine .I first started off with the skeleton of the webside htlm codes that is delt with the header , body and footer and all that the frontend of the website contains
